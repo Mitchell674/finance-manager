@@ -13,4 +13,4 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-логин/finance-manager.git
+git clone https://github.com/Mitchell674/finance-manager.git
